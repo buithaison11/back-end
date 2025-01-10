@@ -1,0 +1,191 @@
+{
+  "books": [
+    {
+      "title": "Cái Ghế Trống 0",
+      "price": 20,
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_wI6BkFaYfyTDNsZz-GF0nWOQGsXXI3bG3A&s",
+      "authorId": "3",
+      "categoryId": "3",
+      "id": 2
+    },
+    {
+      "id": 4,
+      "title": "Mắt Của Báo",
+      "price": 40,
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_wI6BkFaYfyTDNsZz-GF0nWOQGsXXI3bG3A&s",
+      "authorId": 2,
+      "categoryId": 2
+    },
+    {
+      "id": 5,
+      "title": "Tâm Lý Học",
+      "price": 50,
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_wI6BkFaYfyTDNsZz-GF0nWOQGsXXI3bG3A&s",
+      "authorId": 1,
+      "categoryId": 1
+    },
+    {
+      "id": 6,
+      "title": "Trinh Thám",
+      "price": 60,
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_wI6BkFaYfyTDNsZz-GF0nWOQGsXXI3bG3A&s",
+      "authorId": 2,
+      "categoryId": 2
+    },
+    {
+      "id": 7,
+      "title": "Tâm Lý Học 2",
+      "price": 70,
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_wI6BkFaYfyTDNsZz-GF0nWOQGsXXI3bG3A&s",
+      "authorId": 1,
+      "categoryId": 1
+    },
+    {
+      "id": 8,
+      "title": "Trinh Thám 2",
+      "price": 80,
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_wI6BkFaYfyTDNsZz-GF0nWOQGsXXI3bG3A&s",
+      "authorId": 2,
+      "categoryId": 2
+    },
+    {
+      "id": 9,
+      "title": "Tâm Lý Học 3",
+      "price": 90,
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_wI6BkFaYfyTDNsZz-GF0nWOQGsXXI3bG3A&s",
+      "authorId": 1,
+      "categoryId": 1
+    },
+    {
+      "id": 10,
+      "title": "Trinh Thám 3",
+      "price": 100,
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_wI6BkFaYfyTDNsZz-GF0nWOQGsXXI3bG3A&s",
+      "authorId": 2,
+      "categoryId": 2
+    },
+    {
+      "id": 11,
+      "title": "Tâm Lý Học 4",
+      "price": 110,
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_wI6BkFaYfyTDNsZz-GF0nWOQGsXXI3bG3A&s",
+      "authorId": 1,
+      "categoryId": 1
+    },
+    {
+      "id": 12,
+      "title": "Trinh Thám 4",
+      "price": 120,
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_wI6BkFaYfyTDNsZz-GF0nWOQGsXXI3bG3A&s",
+      "authorId": 2,
+      "categoryId": 2
+    },
+    {
+      "id": 13,
+      "title": "Tâm Lý Học 5",
+      "price": 130,
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_wI6BkFaYfyTDNsZz-GF0nWOQGsXXI3bG3A&s",
+      "authorId": 1,
+      "categoryId": 1
+    },
+    {
+      "id": 14,
+      "title": "Trinh Thám 5",
+      "price": 140,
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_wI6BkFaYfyTDNsZz-GF0nWOQGsXXI3bG3A&s",
+      "authorId": 2,
+      "categoryId": 2
+    },
+    {
+      "id": 15,
+      "title": "Tâm Lý Học 6",
+      "price": 150,
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_wI6BkFaYfyTDNsZz-GF0nWOQGsXXI3bG3A&s",
+      "authorId": 1,
+      "categoryId": 1
+    },
+    {
+      "id": 16,
+      "title": "Trinh Thám 6",
+      "price": 160,
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_wI6BkFaYfyTDNsZz-GF0nWOQGsXXI3bG3A&s",
+      "authorId": 2,
+      "categoryId": 2
+    },
+    {
+      "id": 17,
+      "title": "Tâm Lý Học 7",
+      "price": 170,
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_wI6BkFaYfyTDNsZz-GF0nWOQGsXXI3bG3A&s",
+      "authorId": 1,
+      "categoryId": 1
+    },
+    {
+      "id": 18,
+      "title": "Trinh Thám 7",
+      "price": 180,
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_wI6BkFaYfyTDNsZz-GF0nWOQGsXXI3bG3A&s",
+      "authorId": 2,
+      "categoryId": 2
+    },
+    {
+      "title": "a",
+      "price": "112",
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_wI6BkFaYfyTDNsZz-GF0nWOQGsXXI3bG3A&s",
+      "authorId": "1",
+      "categoryId": "1",
+      "id": 19
+    },
+    {
+      "title": "abc",
+      "price": 123,
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_wI6BkFaYfyTDNsZz-GF0nWOQGsXXI3bG3A&s",
+      "authorId": "1",
+      "categoryId": "1",
+      "id": 20
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "Dan Ariely"
+    },
+    {
+      "id": 2,
+      "name": "Jeffery Deaver"
+    },
+    {
+      "id": 3,
+      "name": "Nguyễn Nhật Ánh"
+    },
+    {
+      "id": 4,
+      "name": "Nguyễn Văn Nam"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Tâm Lý - Kỹ Năng Sống"
+    },
+    {
+      "id": 2,
+      "name": "Kinh Dị - Trinh Thám"
+    },
+    {
+      "id": 3,
+      "name": "Tiểu Thuyết"
+    },
+    {
+      "id": 4,
+      "name": "Truyện Ngắn"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "123"
+    }
+  ]
+}
